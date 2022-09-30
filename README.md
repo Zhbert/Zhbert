@@ -1,4 +1,4 @@
-## Hey 👋, This is Konstantin Nezhbert
+## Hey 👋, I am Konstantin Nezhbert.
 [![Gmail Badge](https://img.shields.io/badge/-zhbert@yandex.ru-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zhbert@yandex.ru)](mailto:zhbert@yandex.ru) 
 [![Linkedin Badge](https://img.shields.io/badge/-zhbert-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhbert/)](https://www.linkedin.com/in/zhbert/) [![Github Badge](https://img.shields.io/badge/-Zhbert-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Zhbert/)](https://www.github.com/Zhbert/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://zhbert.ru/programs.html/)](https://zhbert.ru/programs.html/) <p align='left'> You can view my resume <a href='https://zhbert.ru/resume.html ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
