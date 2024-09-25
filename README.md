@@ -11,4 +11,7 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Zhbert alt=Zhbert /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Zhbert&show_icons=true&include_all_commits=true&theme=graywhite)](https://github.com/Zhbert/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhbert&layout=compact&theme=graywhite)](https://github.com/Zhbert/github-readme-stats)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Zhbert)  
