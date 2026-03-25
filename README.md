@@ -10,10 +10,11 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Zhbert alt=Zhbert /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Zhbert&show_icons=true&include_all_commits=true&theme=algolia)](https://github.com/Zhbert/github-readme-stats)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Zhbert&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhbert&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="170" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhbert&layout=compact&theme=algolia)](https://github.com/Zhbert/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zhbert&theme=nightowl)](https://git.io/streak-stats) 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Zhbert&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="700" />
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zhbert&bg_color=172030&color=a3b09a&line=b18bb1&point=c6797e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
